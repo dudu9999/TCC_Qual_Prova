@@ -1,0 +1,14 @@
+
+<script src="https://www.gstatic.com/firebasejs/3.8.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDd7qkHDC84LEEDtWhg39YK8tc22Z3Ovrc",
+    authDomain: "qual-prova.firebaseapp.com",
+    databaseURL: "https://qual-prova.firebaseio.com",
+    projectId: "qual-prova",
+    storageBucket: "qual-prova.appspot.com",
+    messagingSenderId: "846070454962"
+  };
+  firebase.initializeApp(config);
+</script>
